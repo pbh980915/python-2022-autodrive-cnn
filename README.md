@@ -75,3 +75,7 @@ record에는 s**d**으로 이름이 되어 있을것입니다.
 사용방법
 
 버튼을 순서대로 누르면 됩니다.
+![image](https://user-images.githubusercontent.com/82069536/154518041-1fa170c6-d289-401f-a7ad-c85ce4038467.png)
+![image](https://user-images.githubusercontent.com/82069536/154518084-3d669d81-b812-4c56-b87c-b4dcf5158450.png)
+![image](https://user-images.githubusercontent.com/82069536/154518130-7eebe4cb-cea4-4c5d-9098-385757e2fb17.png)
+
